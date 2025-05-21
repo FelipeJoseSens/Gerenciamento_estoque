@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1BQgMiuadTvVXreUi5tbUnIHvezg8V8cpSqSAde1X60=",
+  "Source": "ConFinServer",
+  "BasePath": "_content/ConFinServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
